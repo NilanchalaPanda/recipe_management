@@ -1,4 +1,4 @@
-# 🍳 Advanced Recipe Management Database Schema
+# 🍳 Advanced Recipe Management Database Schema [(PPT Link)](https://www.canva.com/design/DAGueUDk5TQ/TrDUEdv2IZiqcUwB2YAVNQ/edit?utm_content=DAGueUDk5TQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Welcome to the **Recipe Management System**, a fully normalized, scalable, and extensible PostgreSQL database schema designed to manage recipes, cooks, ingredients, allergies, user interactions, and more — all while utilizing **advanced SQL features**.
 
